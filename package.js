@@ -18,6 +18,6 @@ Package.onUse(function(api) {
 
 Package.onTest(function(api) {
     api.use('tinytest');
-    api.use('projik:client-events');
+    api.use('supaseca:client-events');
     api.addFiles('client-events-tests.js');
 });
