@@ -5,7 +5,7 @@ Developer friendly client interaction events for Meteorjs
 ### Installation
 
 ```sh
-meteor add projik:client-events
+meteor add supaseca:client-events
 ```
 
 ### Events
